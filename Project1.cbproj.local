@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.12.16 10:52:18.192,=C:\Users\kia3608\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.12.16 10:52:35.759,=C:\Users\kia3608\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.12.16 10:54:05.346,C:\Users\kia3608\Desktop\111\Unit1.cpp=C:\Users\kia3608\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.12.16 10:54:05.346,C:\Users\kia3608\Desktop\111\Unit1.dfm=C:\Users\kia3608\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.12.16 10:54:05.346,C:\Users\kia3608\Desktop\111\Unit1.h=C:\Users\kia3608\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.12.16 10:54:06.387,C:\Users\kia3608\Desktop\111\Project1PCH1.h=C:\Users\kia3608\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.12.16 10:54:07.986,C:\Users\kia3608\Desktop\111\Project1.cbproj=C:\Users\kia3608\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
