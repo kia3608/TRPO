@@ -18,7 +18,7 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 {
  Form1->Canvas->Brush->Color = clRed;
 	 Form1->Canvas->Ellipse(0, 0, 20, 20);
- Form1->Canvas->Brush->Color = clBlue;
+ Form1->Canvas->Brush->Color = clRed;
 	 Form1->Canvas->Ellipse(60, 60, 80, 80);
 
 }
